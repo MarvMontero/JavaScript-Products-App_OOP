@@ -1,2 +1,2 @@
 # JavaScript-Products-App_OOP
-![Alt text](/relative/src/screenshot.jpg?raw=true "Optional Title")
+![Alt text](/relative/docs/screenshot.jpg?raw=true "Optional Title")
