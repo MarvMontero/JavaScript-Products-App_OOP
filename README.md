@@ -1,2 +1,2 @@
 # JavaScript-Products-App_OOP
-(relative/docs/screenshot.jpg?raw=true "Optional Title")
+(https://raw.github.com/MarvMontero/JavaScript-Products-App_OOP/master/docs/screenshot.PNG)
